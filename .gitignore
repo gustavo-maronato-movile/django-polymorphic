@@ -16,3 +16,4 @@ build/
 dist/
 docs/_build/
 htmlcov/
+django-polymorphic.sublime-project
